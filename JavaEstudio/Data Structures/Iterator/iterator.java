@@ -15,10 +15,10 @@ public class iterator {
         while (it.hasNext()) {
             Integer i = it.next();
             
-            /*if (i<10) {
+            if (i<10) {
                 it.remove();
             }
-            */
+            
 
         }
         System.out.println(numbers);
